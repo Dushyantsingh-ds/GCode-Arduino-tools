@@ -1,3 +1,9 @@
+Sending gcode from app to ardunio
+
+https://www.youtube.com/watch?v=YdvNeKYDQiw
+
+
+
 # G-Code Arduino Library
 [https://tinkersprojects.com/](https://tinkersprojects.com/)  
 This is a library that alows any machine or robot to be controlled by G-Code
